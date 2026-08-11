@@ -6,7 +6,6 @@ class State(TypedDict):
     number: int
     result: str
 
-
 def start_node(state: State):
     return {}
 
