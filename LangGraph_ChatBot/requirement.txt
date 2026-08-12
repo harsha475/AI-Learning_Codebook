@@ -1,6 +1,7 @@
 streamlit
-langgraph
-langgraph-checkpoint-sqlite
+python-dotenv
+langchain-core
 langchain-google-genai
 langchain-tavily
-python-dotenv
+langgraph
+langgraph-checkpoint-sqlite
